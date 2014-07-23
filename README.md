@@ -6,4 +6,4 @@ jwerty is a JS lib which allows you to bind, fire and assert key combination
 strings against elements and events. It normalises the poor std api into
 something easy to use and clear.
 
-For detailed docs, please read the [README-DETAILED.md](README-DETAILED.md) file.
+For detailed docs, please read the [README-DETAILED.md](https://github.com/keithamus/jwerty/blob/master/README-DETAILED.md) file.
